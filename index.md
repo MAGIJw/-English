@@ -231,8 +231,7 @@ html {
 <h1>English</h1>
 
 <div class="vertical-menu">
-  <a href="#">中級單字</a>
-  <a href="#">高級單字</a>
+  <a href="#">常用進階單字</a>
 </div>
 </body>
 </html>
