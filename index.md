@@ -231,7 +231,7 @@ html {
 <h1>English</h1>
 
 <div class="vertical-menu">
-  <a href="#" class="active">English</a>
+  <h>English</h>
   <a href="#">字母 & 發音</a>
   <a href="#">初級單字 & 文法</a>
   <a href="#">中級單字 & 文法</a>
